@@ -8,8 +8,8 @@
     "deploy": "npm run build && gh-pages -d dist"
   },
   "dependencies": {
-    "@suiet/wallet-kit": "^0.0.1",
-    "@mysten/sui": "^0.0.1",
+    "@suiet/wallet-kit": "^0.4.0",
+    "@mysten/sui": "^0.38.0",
     "@tanstack/react-query": "^4.29.9",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
@@ -23,5 +23,5 @@
     "typescript": "^5.0.2",
     "vite": "^4.3.9"
   },
-  "homepage": "https://YOUR_USERNAME.github.io/wolf-dao"
+  "homepage": "https://SuiWolfPack.github.io/wolf-dao"
 }
